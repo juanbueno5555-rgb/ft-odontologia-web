@@ -1,0 +1,18 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Build / deploy
+node_modules/
+dist/
+*.zip
+
+# Local
+.env
+.env.local
